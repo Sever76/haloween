@@ -1,0 +1,33 @@
+<div class="container">
+    <div class="globe">
+         <div class="moon">
+    
+    </div>
+    </div>
+</div>
+         <div class="witch">
+              <div class="witch-hat"></div>
+              <div class="witch-head"></div>
+              <div class="witch-neck"></div>
+              <div class="witch-body body-upper"></div>
+                   <div class="witch-hand hand-left"></div>
+                   <div class="witch-hand  hand-right"></div>
+               <div class="witch-body body-bottom"> 
+                    <div class="witch-skirt">
+                        <div class="pile up"></div>
+                        <div class="pile down"></div>
+                        <div class="pile up"></div>
+                        <div class="pile down"></div>
+                        <div class="pile down"></div>
+                    <div class ="witch-leg">
+                        <div class="witch-leg leg-left"></div>
+                        <div class="witch-leg leg-right"></div>
+                    </div>
+              <div class="witch-broom">
+                  <div class="hand-left"></div>
+              </div>
+                    </div>
+                   </div>    
+         </div>
+    <div class="base">   
+    </div>
